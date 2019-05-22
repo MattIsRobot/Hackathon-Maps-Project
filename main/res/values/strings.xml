@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WildLifeSightings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_wildlife_page">wildlifePage</string>
+    <string name="InfoScreen">InfoScreen</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">YzZQZqSnjEXVP8KxL3N2ujmxU</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">5xw6W8nkmZ0gbHTVsY9q9WuAkwAjNdxNdxVtsHdJCR5sQZcng5</string>
+
+</resources>
